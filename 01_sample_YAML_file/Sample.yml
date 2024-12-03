@@ -1,0 +1,13 @@
+Person: 
+    name: Rio
+    age: 26
+    gender: M
+    is_student: true
+    hobbies:
+        - Football
+        - Travelling
+        - Watching webseries
+    address:
+        street: 123 main st
+        city: Hyderabad
+        zip: 1234567
